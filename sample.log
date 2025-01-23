@@ -1,0 +1,6 @@
+2025-01-23 10:00:01, GET /api/v1/resource 200 120ms
+2025-01-23 10:01:01, POST /api/v1/resource 500 180ms
+2025-01-23 10:02:01, GET /api/v1/resource 400 200ms
+2025-01-23 10:03:01, GET /api/v1/resource 200 130ms
+2025-01-23 10:04:01, POST /api/v1/resource 500 210ms
+2025-01-23 10:05:01, GET /api/v1/resource 200 110ms

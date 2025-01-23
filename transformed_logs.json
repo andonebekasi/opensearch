@@ -1,0 +1,44 @@
+[
+  {
+    "timestamp": "2025-01-23 10:00:01,",
+    "method": "GET",
+    "endpoint": "/api/v1/resource",
+    "status_code": "200",
+    "response_time": "120"
+  },
+  {
+    "timestamp": "2025-01-23 10:01:01,",
+    "method": "POST",
+    "endpoint": "/api/v1/resource",
+    "status_code": "500",
+    "response_time": "180"
+  },
+  {
+    "timestamp": "2025-01-23 10:02:01,",
+    "method": "GET",
+    "endpoint": "/api/v1/resource",
+    "status_code": "400",
+    "response_time": "200"
+  },
+  {
+    "timestamp": "2025-01-23 10:03:01,",
+    "method": "GET",
+    "endpoint": "/api/v1/resource",
+    "status_code": "200",
+    "response_time": "130"
+  },
+  {
+    "timestamp": "2025-01-23 10:04:01,",
+    "method": "POST",
+    "endpoint": "/api/v1/resource",
+    "status_code": "500",
+    "response_time": "210"
+  },
+  {
+    "timestamp": "2025-01-23 10:05:01,",
+    "method": "GET",
+    "endpoint": "/api/v1/resource",
+    "status_code": "200",
+    "response_time": "110"
+  }
+]
